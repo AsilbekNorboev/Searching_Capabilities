@@ -1,0 +1,59 @@
+﻿<Properties StartupConfiguration="{05B70160-13FC-47A8-A257-598C270CB651}|http">
+  <MonoDevelop.Ide.ItemProperties.Norboev__Asilbek__HW3 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Norboev_Asilbek_HW3/DAL/AppDbContext.cs">
+    <Files>
+      <File FileName="Norboev_Asilbek_HW3/libman.json" />
+      <File FileName="Norboev_Asilbek_HW3/Program.cs" />
+      <File FileName="Norboev_Asilbek_HW3/Views/_ViewImports.cshtml" />
+      <File FileName="Norboev_Asilbek_HW3/Views/_ViewStart.cshtml" />
+      <File FileName="Norboev_Asilbek_HW3/DAL/AppDbContext.cs" Line="1" Column="1" />
+      <File FileName="Norboev_Asilbek_HW3/Models/AppUser.cs" />
+      <File FileName="Norboev_Asilbek_HW3/Models/Category.cs" />
+      <File FileName="Norboev_Asilbek_HW3/Models/JobPosting.cs" />
+      <File FileName="Norboev_Asilbek_HW3/Controllers/SeedController.cs" />
+      <File FileName="Norboev_Asilbek_HW3/Seeding/SeedCategories.cs" />
+      <File FileName="Norboev_Asilbek_HW3/Seeding/SeedJobPostings.cs" />
+      <File FileName="Norboev_Asilbek_HW3/Views/Shared/Error.cshtml" />
+      <File FileName="Norboev_Asilbek_HW3/Views/Seed/Confirm.cshtml" />
+      <File FileName="Norboev_Asilbek_HW3/Views/Seed/Index.cshtml" />
+      <File FileName="Norboev_Asilbek_HW3/Controllers/HomeController.cs" Line="112" Column="14" />
+      <File FileName="Norboev_Asilbek_HW3/Views/Home/Index.cshtml" Line="18" Column="1" />
+      <File FileName="Norboev_Asilbek_HW3/Views/Home/Details.cshtml" Line="71" Column="1" />
+      <File FileName="Norboev_Asilbek_HW3/Models/ViewModels/SearchViewModel.cs" />
+      <File FileName="Norboev_Asilbek_HW3/Views/Home/DetailedSearch.cshtml" />
+      <File FileName="Norboev_Asilbek_HW3/Views/Home/DisplaySearchResults.cshtml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Norboev_Asilbek_HW3" expanded="True">
+            <Node name="Norboev_Asilbek_HW3" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="DAL" expanded="True">
+                <Node name="AppDbContext.cs" selected="True" />
+              </Node>
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="ViewModels" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="Seeding" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Seed" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
